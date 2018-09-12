@@ -1,2 +1,2 @@
 # CalculiX-tests
-CalculiX examples
+CalculiX examples - for my own use.

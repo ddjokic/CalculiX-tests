@@ -1,0 +1,4 @@
+Chain CalculiX example
+
+"Dummy" mooring chain under near MBL tension and "out of plane bending" (OPB).
+Model - 466,547 nodes & 310,307 3D-elements. INP files are zipped due to the size.
